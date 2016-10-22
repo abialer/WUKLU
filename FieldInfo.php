@@ -10,7 +10,7 @@
 
 <h1 >Field Information Gathering</h1>
 
-<form action = "http://ec2-54-89-158-12.compute-1.amazonaws.com/~johnegarza/GLOBALHACK/InfoParser.php" method = "POST">
+<form action = "InfoParser.php" method = "POST">
     <b>First name:</b>
     <input class="formInput" type="text" name="firstname"><br>
 
