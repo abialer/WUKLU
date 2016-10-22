@@ -1,6 +1,6 @@
 <?php
 
-    require 'dbconnect.php';
+    require 'database.php';
 
     $firstname = $_POST['firstname'];
     $lastname = $_POST['lastname'];
