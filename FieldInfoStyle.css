@@ -1,0 +1,26 @@
+.city {
+    margin: 5px;
+    padding: 15px;
+    max-width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+body{
+    background-color: dodgerblue; /* what color to make the background */
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 25px;
+}
+
+.formInput {
+    font-size:25px;
+    height: 25px;
+    width: 50%;
+    max-width: 300px;
+}
+
+input[type=checkbox] {
+    zoom: 1.5;
+}
